@@ -8,6 +8,7 @@ npm install
 ```
 ### Edit .env.example with your API
 Create new app on Alchemy, view HTTP URL, then paste in API_URL
+Visit https://docs.alchemy.com/alchemy/introduction/getting-started
 
 ### Edit .env.example with your private key from MetaMask
 Visit https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key and paste key into PRIVATE_KEY
